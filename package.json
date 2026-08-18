@@ -19,7 +19,7 @@
   "license": "BSD",
   "dependencies": {
     "gost89": "^0.1.11",
-    "dstu7564": "file:../dstu7564",
-    "dstu7624": "file:../dstu7624"
+    "dstu7564": "^1.1.0",
+    "dstu7624": "^0.1.0"
   }
 }
