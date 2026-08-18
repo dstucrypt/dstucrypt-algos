@@ -1,6 +1,6 @@
 {
   "name": "dstucrypt-algos",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Combined DSTU algorithm dispatcher for jkurwa (gost89 + dstu7564 + dstu7624)",
   "main": "index.js",
   "scripts": {
